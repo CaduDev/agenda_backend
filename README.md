@@ -1,4 +1,4 @@
-# Backend em node do sistema de contatos: AGENDA
+# Backend on node of the contacts system: AGENDA
 
 ### Steps to run the application
 
