@@ -5,9 +5,9 @@ module.exports = {
       [
         {
           user_type: 1,
-          fullname: 'Carlos Eduardo',
-          name: 'Carlos',
-          surname: 'Eduardo',
+          fullname: 'Admin teste',
+          name: 'Admin',
+          surname: 'teste',
           genre: 'masculino',
           email: 'admin@admin.com',
           password_hash:

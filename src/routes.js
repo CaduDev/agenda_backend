@@ -16,6 +16,9 @@ import authMiddleware from './app/middlewares/auth';
 
 const routes = new Router();
 
+routes.get('/', (req, res) => {
+  return res.send('Welcome to Agenda.')
+});
 routes.post('/session', SessionController.store);
 routes.post('/user', UserController.store);
 
